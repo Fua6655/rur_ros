@@ -5,6 +5,8 @@
 **Platform:** SoftBank Robotics Pepper  
 **Framework:** ROS (Robot Operating System)  
 📺 **Demo video:** https://www.youtube.com/watch?v=QCsrS-MGEd8
+📄 **IEEE publication:** https://ieeexplore.ieee.org/document/8870908
+
 
 ---
 
